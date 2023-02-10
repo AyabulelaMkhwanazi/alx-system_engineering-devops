@@ -1,2 +1,3 @@
 #!/bin/bash
 chmod -R ugo+X 0x01-shell_permissions
+chmod a+x
