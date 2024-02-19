@@ -5,5 +5,5 @@
 
 | | Task | Description |
 | --- | --- | --- |
-| 0 | First tasks | Complete the first 9 tasks. [0-first_9_tasks.png](/0-first_9_tasks.png) |
+| 0 | First tasks | Complete the first 9 tasks. [0-first_9_tasks.png](0-first_9_tasks.png) |
 | 1 | Reach completed tasks | Complete the next 9 tasks, getting to 18 total. |
