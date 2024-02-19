@@ -12,7 +12,7 @@
 > Below are steps that I used to upload files from my local machine to my remote machine (sandbox environmet) using SFTP:
 
 1. Open a terminal from your local machine
-2. **Establish a SFTP connection**: Use the `sftp` command followed by your username and the hostname of the sandbox environmet
+2. **Establish a SFTP connection**: Use the `sftp` command followed by your username and the hostname of the sandbox environment
 
 ```bash
         sftp username@hostname
