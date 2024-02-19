@@ -1,0 +1,8 @@
+# Command Line for the Win
+
+**This directory contains screenshots for tasks completed for the [CMD CHALLANGE](https://cmdchallenge.com)**
+
+| | Task | Description |
+| --- | --- | --- |
+| 0 | First tasks | -[x] Complete the first 9 tasks. - File: [0-first_9_tasks.png](command_line_for_the_win/0-first_9_tasks.png) |
+| 1 | Reach completed tasks | Complete the next 9 tasks, getting to 18 total. |
