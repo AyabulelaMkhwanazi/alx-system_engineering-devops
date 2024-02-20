@@ -9,7 +9,7 @@
 | 2 | Reach the perfect cube, 27 | Complete the next 9 tasks, getting to total 27 | **[2-next_9_tasks.png](2-next_9_tasks.png) ,  _[2-next_9_tasks.jpg](2-next_9_tasks.jpg)_** |
 
 > [!IMPORTANT]
-> Below are steps that I used to upload the required files from my local machine to my remote machine (sandbox environmet) using SFTP:
+> Below are steps that I used to upload the required files from my local machine to my sandbox environment using SFTP:
 
 1. Open a terminal from your local machine
 2. **Establish a SFTP connection**: Use the `sftp` command followed by your username and the hostname of the sandbox environment
