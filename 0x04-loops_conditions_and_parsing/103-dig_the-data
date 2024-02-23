@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# This script groups visitors by IP and HTTP status code, and displays this data.
+
+# check if the log file exists
+if [ ! -f apache-access.log ];
+then
+    echo "The apache-access.log file does not exist in the current directory."
+    exit 1
+fi
+
+# use awk to parse the log file and sort the output
+awk '{print $1, $9}' apache-access.log | sort | uniq -c | sort -nr
