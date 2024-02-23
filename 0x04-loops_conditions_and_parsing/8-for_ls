@@ -6,7 +6,8 @@
 
 for file in *;
 do
-    if [[ $file == *-* ]]; then
+    if [[ $file == *-* ]];
+    then
         echo "${file#*-}"
     fi
 done
