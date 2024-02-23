@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script displays the content of the file '/etc/passwd', using the while loop + IFS.
+# This script displays the content of the file '/etc/passwd', using the while loop + IFS..
 
 # Set the Internal Field Separator to :
 IFS=":"
