@@ -1,6 +1,6 @@
 # 0x04. Loops, Conditions and Parsing.
 
-## This directory contains files done shell loops, conditions and parsing
+## This directory contains files done for shell loops, conditions and parsing
 
 | | <ins>**Task**</ins> | <ins>**Description**</ins> | <ins>**File**</ins> |
 | --- | --- | --- | --- |
