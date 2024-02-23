@@ -2,7 +2,8 @@
 # This script displays the visitor IP along with the HTTP status code from the Apache log file.
 
 # Check if the log file exists
-if [ ! -f apache-access.log ]; then
+if [ ! -f apache-access.log ];
+then
     echo "The apache-access.log file does not exist in the current directory."
     exit 1
 fi
