@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# This script kills 7-hifhlander
+
+term_handler() {
+	echo "I am invincible"
+}
+
+trap 'term_handler' SIGTERM
+
+while true
+do
+	echo "To infinity adn beyond"
+	sleep 2
+done
