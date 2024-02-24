@@ -9,6 +9,6 @@ trap 'term_handler' SIGTERM
 
 while true
 do
-	echo "To infinity adn beyond"
+	echo "To infinity and beyond"
 	sleep 2
 done
