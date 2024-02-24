@@ -1,13 +1,9 @@
 #!/usr/bin/env bash
 # This script kills 7-hifhlander
 
-term_handler() {
-	echo "I am invincible"
-}
+trap 'echo "I am invincible!!!"' 15
 
-trap 'term_handler' SIGTERM
-
-while true
+while true;
 do
 	echo "To infinity and beyond"
 	sleep 2
